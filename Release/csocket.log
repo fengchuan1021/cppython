@@ -1,0 +1,15 @@
+﻿  base64.cpp
+  BigInteger.cc
+  BigIntegerAlgorithms.cc
+  BigIntegerUtils.cc
+  BigUnsigned.cc
+  BigUnsignedInABase.cc
+  Exten.cpp
+    正在创建库 C:\Users\Administrator\source\repos\csocket\cppython\Release\Exten.lib 和对象 C:\Users\Administrator\source\repos\csocket\cppython\Release\Exten.exp
+  正在生成代码
+C:\Users\Administrator\source\repos\csocket\cppython\Exten.cpp(24): warning C4715: “get”: 不是所有的控件路径都返回值
+  439 of 446 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  csocket.vcxproj -> C:\Users\Administrator\source\repos\csocket\cppython\Release\Exten.pyd

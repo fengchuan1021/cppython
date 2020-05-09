@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\csocket\Release\csocket.vcxproj.CopyComplete
+C:\Users\Administrator\source\repos\csocket\Release\Exten.pyd
+C:\Users\Administrator\source\repos\csocket\Release\libcurl.dll
+C:\Users\Administrator\source\repos\csocket\Release\zlib1.dll
+C:\Users\Administrator\source\repos\csocket\cppython\Release\csocket.vcxproj.CopyComplete
+C:\Users\Administrator\source\repos\csocket\cppython\Release\Exten.pyd
+C:\Users\Administrator\source\repos\csocket\cppython\Release\libcurl.dll
+C:\Users\Administrator\source\repos\csocket\cppython\Release\zlib1.dll
